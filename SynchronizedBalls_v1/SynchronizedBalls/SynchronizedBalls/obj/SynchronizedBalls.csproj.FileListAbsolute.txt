@@ -1,0 +1,8 @@
+D:\Software\OS1\Week 5\SynchronizedBalls\SynchronizedBalls\obj\Debug\ResolveAssemblyReference.cache
+D:\Software\OS1\Week 5\SynchronizedBalls\SynchronizedBalls\obj\Debug\SynchronizedBalls.Properties.Resources.resources
+D:\Software\OS1\Week 5\SynchronizedBalls\SynchronizedBalls\obj\Debug\SynchronizedBalls.SynchronisationTestForm.resources
+D:\Software\OS1\Week 5\SynchronizedBalls\SynchronizedBalls\obj\Debug\SynchronizedBalls.csproj.GenerateResource.Cache
+D:\Software\OS1\Week 5\SynchronizedBalls\SynchronizedBalls\bin\Debug\SynchronizedBalls.exe
+D:\Software\OS1\Week 5\SynchronizedBalls\SynchronizedBalls\bin\Debug\SynchronizedBalls.pdb
+D:\Software\OS1\Week 5\SynchronizedBalls\SynchronizedBalls\obj\Debug\SynchronizedBalls.exe
+D:\Software\OS1\Week 5\SynchronizedBalls\SynchronizedBalls\obj\Debug\SynchronizedBalls.pdb
