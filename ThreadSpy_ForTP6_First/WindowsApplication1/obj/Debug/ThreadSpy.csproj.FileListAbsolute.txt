@@ -1,0 +1,9 @@
+C:\Users\Aurore\source\repos\ThreadSpy\WindowsApplication1\bin\Debug\ThreadSpy.exe
+C:\Users\Aurore\source\repos\ThreadSpy\WindowsApplication1\bin\Debug\ThreadSpy.pdb
+C:\Users\Aurore\source\repos\ThreadSpy\WindowsApplication1\obj\Debug\ThreadSpy.csprojAssemblyReference.cache
+C:\Users\Aurore\source\repos\ThreadSpy\WindowsApplication1\obj\Debug\ThreadSpy.ThreadSpyForm.resources
+C:\Users\Aurore\source\repos\ThreadSpy\WindowsApplication1\obj\Debug\ThreadSpy.Properties.Resources.resources
+C:\Users\Aurore\source\repos\ThreadSpy\WindowsApplication1\obj\Debug\ThreadSpy.csproj.GenerateResource.cache
+C:\Users\Aurore\source\repos\ThreadSpy\WindowsApplication1\obj\Debug\ThreadSpy.csproj.CoreCompileInputs.cache
+C:\Users\Aurore\source\repos\ThreadSpy\WindowsApplication1\obj\Debug\ThreadSpy.exe
+C:\Users\Aurore\source\repos\ThreadSpy\WindowsApplication1\obj\Debug\ThreadSpy.pdb

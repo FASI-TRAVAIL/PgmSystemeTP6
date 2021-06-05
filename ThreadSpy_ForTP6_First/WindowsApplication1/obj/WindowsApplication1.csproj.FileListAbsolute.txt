@@ -1,0 +1,8 @@
+D:\Software\OS1\Week 3\WindowsApplication1\WindowsApplication1\obj\Debug\ResolveAssemblyReference.cache
+D:\Software\OS1\Week 3\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.csproj.GenerateResource.Cache
+D:\Software\OS1\Week 3\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+D:\Software\OS1\Week 3\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+D:\Software\OS1\Week 3\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+D:\Software\OS1\Week 3\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+D:\Software\OS1\Week 3\WindowsApplication1\WindowsApplication1\obj\Debug\ThreadSpy.ThreadSpyFrame.resources
+D:\Software\OS1\Week 3\WindowsApplication1\WindowsApplication1\obj\Debug\ThreadSpy.Properties.Resources.resources

@@ -1,0 +1,16 @@
+D:\Software\OS1\Week 3\WindowsApplication1\WindowsApplication1\obj\Debug\ResolveAssemblyReference.cache
+D:\Software\OS1\Week 3\WindowsApplication1\WindowsApplication1\obj\Debug\ThreadSpy.Properties.Resources.resources
+D:\Software\OS1\Week 3\WindowsApplication1\WindowsApplication1\obj\Debug\ThreadSPy.csproj.GenerateResource.Cache
+D:\Software\OS1\Week 3\WindowsApplication1\WindowsApplication1\bin\Debug\ThreadSpy.exe
+D:\Software\OS1\Week 3\WindowsApplication1\WindowsApplication1\bin\Debug\ThreadSpy.pdb
+D:\Software\OS1\Week 3\WindowsApplication1\WindowsApplication1\obj\Debug\ThreadSpy.exe
+D:\Software\OS1\Week 3\WindowsApplication1\WindowsApplication1\obj\Debug\ThreadSpy.pdb
+D:\Software\OS1\Week 3\WindowsApplication1\WindowsApplication1\obj\Debug\ThreadSpy.ThreadSpyForm.resources
+D:\Software\OS1\Week 3\Copy of WindowsApplication1\WindowsApplication1\obj\Debug\ResolveAssemblyReference.cache
+D:\Software\OS1\Week 3\Copy of WindowsApplication1\WindowsApplication1\obj\Debug\ThreadSpy.ThreadSpyForm.resources
+D:\Software\OS1\Week 3\Copy of WindowsApplication1\WindowsApplication1\obj\Debug\ThreadSpy.Properties.Resources.resources
+D:\Software\OS1\Week 3\Copy of WindowsApplication1\WindowsApplication1\obj\Debug\ThreadSpy.csproj.GenerateResource.Cache
+D:\Software\OS1\Week 3\Copy of WindowsApplication1\WindowsApplication1\obj\Debug\ThreadSpy.exe
+D:\Software\OS1\Week 3\Copy of WindowsApplication1\WindowsApplication1\bin\Debug\ThreadSpy.exe
+D:\Software\OS1\Week 3\Copy of WindowsApplication1\WindowsApplication1\bin\Debug\ThreadSpy.pdb
+D:\Software\OS1\Week 3\Copy of WindowsApplication1\WindowsApplication1\obj\Debug\ThreadSpy.pdb
