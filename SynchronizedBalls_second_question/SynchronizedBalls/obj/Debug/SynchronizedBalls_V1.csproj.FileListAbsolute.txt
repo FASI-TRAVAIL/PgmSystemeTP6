@@ -1,0 +1,9 @@
+C:\Users\Aurore\source\repos\SynchronizedBalls_V1\SynchronizedBalls\bin\Debug\SynchronizedBalls.exe
+C:\Users\Aurore\source\repos\SynchronizedBalls_V1\SynchronizedBalls\bin\Debug\SynchronizedBalls.pdb
+C:\Users\Aurore\source\repos\SynchronizedBalls_V1\SynchronizedBalls\obj\Debug\SynchronizedBalls_V1.csprojAssemblyReference.cache
+C:\Users\Aurore\source\repos\SynchronizedBalls_V1\SynchronizedBalls\obj\Debug\SynchronizedBalls.Properties.Resources.resources
+C:\Users\Aurore\source\repos\SynchronizedBalls_V1\SynchronizedBalls\obj\Debug\SynchronizedBalls.SynchronisationTestForm.resources
+C:\Users\Aurore\source\repos\SynchronizedBalls_V1\SynchronizedBalls\obj\Debug\SynchronizedBalls_V1.csproj.GenerateResource.cache
+C:\Users\Aurore\source\repos\SynchronizedBalls_V1\SynchronizedBalls\obj\Debug\SynchronizedBalls_V1.csproj.CoreCompileInputs.cache
+C:\Users\Aurore\source\repos\SynchronizedBalls_V1\SynchronizedBalls\obj\Debug\SynchronizedBalls.exe
+C:\Users\Aurore\source\repos\SynchronizedBalls_V1\SynchronizedBalls\obj\Debug\SynchronizedBalls.pdb
